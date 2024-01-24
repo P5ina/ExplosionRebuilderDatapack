@@ -8,4 +8,4 @@ execute if score @s s.crhf.block_id matches 9857 run setblock ~ ~ ~ minecraft:gr
 execute if score @s s.crhf.block_id matches 9858 run setblock ~ ~ ~ minecraft:granite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]
 execute if score @s s.crhf.block_id matches 9859 run setblock ~ ~ ~ minecraft:granite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
 execute if score @s s.crhf.block_id matches 9860 run setblock ~ ~ ~ minecraft:granite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
-execute if score @s s.crhf.block_id matches 9861 run setblock ~ ~ ~ minecraft:grass
+execute if score @s s.crhf.block_id matches 9861 run setblock ~ ~ ~ minecraft:short_grass

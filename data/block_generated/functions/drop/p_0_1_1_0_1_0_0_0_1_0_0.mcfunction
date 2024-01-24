@@ -8,4 +8,4 @@ execute if score @s s.crhf.block_id matches 9857 run summon minecraft:item ~ ~ ~
 execute if score @s s.crhf.block_id matches 9858 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_wall", Count: 1b}}
 execute if score @s s.crhf.block_id matches 9859 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_wall", Count: 1b}}
 execute if score @s s.crhf.block_id matches 9860 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_wall", Count: 1b}}
-execute if score @s s.crhf.block_id matches 9861 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9861 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:short_grass", Count: 1b}}
